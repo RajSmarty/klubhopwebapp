@@ -1,0 +1,27 @@
+{
+  "name": "klubhopwebapp",
+  "version": "1.0.0",
+  "description": "This is a Web based Aplicationp from Klubhop, where user can post Videos, Stories, Reels and can go Go Live! User can follow Clubs where Artists, DJs are performing Live. User can easily watch their Live Performance from several Locations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "klubhop",
+    "club",
+    "party",
+    "parties",
+    "dj",
+    "djs",
+    "music",
+    "artist",
+    "band",
+    "klubhopapp"
+  ],
+  "author": "Nishikant Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2"
+  }
+}
